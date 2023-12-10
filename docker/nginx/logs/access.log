@@ -1,3 +1,0 @@
-192.168.32.1 - - [10/Dec/2023:03:26:03 +0000] "GET / HTTP/1.1" 200 27551 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-192.168.32.1 - - [10/Dec/2023:03:34:12 +0000] "GET / HTTP/1.1" 200 27528 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-192.168.32.1 - - [10/Dec/2023:03:34:18 +0000] "GET /public HTTP/1.1" 404 6616 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
